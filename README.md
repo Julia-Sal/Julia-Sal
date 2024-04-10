@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">A passionate junior developer from Poland</h3>
 
 - 🔭 I’m currently working on **mobile game in Unity**
 
