@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 
-- 🔭 I’m currently working on **mobile game in Unity**
+- 🔭 I’m currently working on **mobile game in Unity** and travel recommendation website design.
 
 - 👨‍💻My projects are available at [https://sunny-gumdrop-9f39ed.netlify.app/](https://sunny-gumdrop-9f39ed.netlify.app/)
 
